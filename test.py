@@ -4,15 +4,15 @@ import json
 
 with open("json.txt", "w") as my_json: 
 	output=[]
-	source_path="H2012.txt"
-	listOfRows=list(csv.reader(open(source_path,"rb"), delimiter="\t"))
+	source_path="H_result.csv"
+	listOfRows=list(csv.reader(open(source_path,"rb"), delimiter=","))
 	for row in listOfRows: 
-		print row[13]
-		if (row[-4] == "REP" ) and (row[13]=="100000"):  
-			data={"Precinct": row[5], "Party":row[-4], "Votes":row[-1]} 
+		# print row[13]
+		if (row[4] == "REP" ) :  
+			data={"Precinct": row[5], "Party":row[4], "Votes":row[-1]} 
 			output.append(data)
-		if (row[-4] == "DEM" ) and (row[13]=="100000"):  
-			data={"Precinct": row[5], "Party":row[-4], "Votes":row[-1]} 
+		if (row[4] == "DEM" ) :  
+			data={"Precinct": row[5], "Party":row[4], "Votes":row[-1]} 
 			output.append(data)
 	
 	json.dump(output,my_json,indent=4, sort_keys=True, separators=(",", ":"))
