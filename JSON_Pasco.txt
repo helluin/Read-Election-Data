@@ -1,6 +1,11 @@
 [
     {
         "Party":"REP",
+        "Precinct":"PrecinctCode",
+        "Votes":"TotalVotes"
+    },
+    {
+        "Party":"REP",
         "Precinct":"1",
         "Votes":"1270"
     },
@@ -560,562 +565,562 @@
         "Votes":"964"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"1",
         "Votes":"1344"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"2",
         "Votes":"240"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"3",
         "Votes":"839"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"4",
         "Votes":"302"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"5",
         "Votes":"570"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"6",
         "Votes":"2163"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"7",
         "Votes":"2071"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"8",
         "Votes":"1560"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"9",
         "Votes":"148"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"10",
         "Votes":"218"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"11",
         "Votes":"795"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"12",
         "Votes":"377"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"13",
         "Votes":"752"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"14",
         "Votes":"1274"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"15",
         "Votes":"979"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"16",
         "Votes":"149"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"17",
         "Votes":"226"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"18",
         "Votes":"354"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"19",
         "Votes":"801"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"20",
         "Votes":"107"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"21",
         "Votes":"259"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"22",
         "Votes":"255"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"23",
         "Votes":"393"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"24",
         "Votes":"128"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"25",
         "Votes":"1035"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"26",
         "Votes":"575"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"27",
         "Votes":"1175"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"28",
         "Votes":"1103"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"29",
         "Votes":"370"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"30",
         "Votes":"920"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"31",
         "Votes":"1112"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"32",
         "Votes":"885"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"33",
         "Votes":"1392"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"34",
         "Votes":"891"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"35",
         "Votes":"799"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"36",
         "Votes":"1378"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"37",
         "Votes":"648"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"38",
         "Votes":"1059"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"39",
         "Votes":"162"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"40",
         "Votes":"210"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"41",
         "Votes":"491"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"42",
         "Votes":"1339"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"43",
         "Votes":"227"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"44",
         "Votes":"370"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"45",
         "Votes":"1027"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"46",
         "Votes":"1042"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"47",
         "Votes":"375"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"48",
         "Votes":"502"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"49",
         "Votes":"302"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"50",
         "Votes":"748"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"51",
         "Votes":"790"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"52",
         "Votes":"1413"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"53",
         "Votes":"617"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"54",
         "Votes":"1016"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"55",
         "Votes":"1152"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"56",
         "Votes":"174"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"57",
         "Votes":"543"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"58",
         "Votes":"412"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"59",
         "Votes":"1635"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"60",
         "Votes":"959"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"61",
         "Votes":"347"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"62",
         "Votes":"1179"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"63",
         "Votes":"384"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"64",
         "Votes":"511"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"65",
         "Votes":"1031"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"66",
         "Votes":"1007"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"67",
         "Votes":"805"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"68",
         "Votes":"636"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"69",
         "Votes":"658"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"70",
         "Votes":"2538"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"71",
         "Votes":"307"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"72",
         "Votes":"810"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"73",
         "Votes":"2106"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"74",
         "Votes":"67"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"75",
         "Votes":"911"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"76",
         "Votes":"680"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"77",
         "Votes":"573"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"78",
         "Votes":"803"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"79",
         "Votes":"239"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"80",
         "Votes":"302"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"81",
         "Votes":"314"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"82",
         "Votes":"884"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"83",
         "Votes":"2273"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"84",
         "Votes":"602"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"85",
         "Votes":"1021"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"86",
         "Votes":"528"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"87",
         "Votes":"366"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"88",
         "Votes":"123"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"89",
         "Votes":"302"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"90",
         "Votes":"1488"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"91",
         "Votes":"822"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"92",
         "Votes":"597"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"93",
         "Votes":"775"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"94",
         "Votes":"498"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"95",
         "Votes":"942"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"96",
         "Votes":"920"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"97",
         "Votes":"1084"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"98",
         "Votes":"947"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"99",
         "Votes":"1286"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"100",
         "Votes":"459"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"101",
         "Votes":"1336"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"102",
         "Votes":"670"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"103",
         "Votes":"940"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"104",
         "Votes":"224"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"105",
         "Votes":"933"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"106",
         "Votes":"223"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"107",
         "Votes":"1549"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"108",
         "Votes":"1251"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"109",
         "Votes":"1493"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"110",
         "Votes":"1897"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"111",
         "Votes":"1550"
     },
     {
-        "Party":"DEM",
+        "Party":"REP",
         "Precinct":"112",
         "Votes":"655"
     }
